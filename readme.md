@@ -114,6 +114,5 @@ SMS-Spam-Classifier/
 
 B.Tech – Artificial Intelligence and Data Science
 
-GitHub: https://github.com/YOUR_USERNAME
-
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+GitHub:  https://github.com/Gopi0831
+LinkedIn:  https://www.linkedin.com/in/gopi-krishnan-a-1520-/
